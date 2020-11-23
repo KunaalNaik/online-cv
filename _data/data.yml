@@ -28,13 +28,13 @@ sidebar:
       - idiom: Hindi
 
     interests:
-      - item: Climbing
-        link:
+      - item: Creating Data Science Content
+        link: 
 
-      - item: Snowboarding
-        link:
+      - item: Scuba Diving
+        link: youtube.com/watch?v=-6SQD0hA-pg
 
-      - item: Cooking
+      - item: Productivity & Habit Hacking
         link:
 
 career-profile:
@@ -45,28 +45,10 @@ career-profile:
       I am also a team player, contributing positively to the success of projects.
       I am also a passionate learner who learns, read books, writes and builds analytical content as a daily practice.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Bachelors of Technology - Computer Science
+      university: Institute of Aeronautical Engineering
+      time: 2006 - 2010
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -132,15 +114,14 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
+Links:
+    title: Co-Learning Lounge
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
+      I am part of community that helps Data Science Aspirants leanr and grow. 
+      As part of our efforts to support learners, we created a Podcast where we interview experts on how they use Data Science to solve Business Chanllenges. 
+    Podcast Host Co-Leanring Lounge Podcast:
+      - title: Spotify Podcast Link
+        link: "https://open.spotify.com/show/0WD3ItOjey6FI5uGSyooKn"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
 
@@ -158,23 +139,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Problem Solving and Critical Thinking
+        level: 95%
+        
+      - name: Digital Marekting & SEO
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Excel, Dashboards and Automation 
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Python for Data Science, Machine Learning, Forecasting
         level: 60%
+
+      - name: SQL / Tableau / Powerpoint Presentation Skills
+        level: 70%
+
+      - name: Editing Videos & Audio
+        level: 70%
+      
+      - name: Data Science Training & Mentoring
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
